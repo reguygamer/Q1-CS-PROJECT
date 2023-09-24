@@ -1,0 +1,24 @@
+.home{
+    border: none;
+    background-color: rgb(232, 232, 63);
+    
+    width: 100px;
+    height: 30px;
+    font-weight: bold;
+    cursor: pointer;
+
+    transition: opacity 0.15s;
+}
+
+.home:hover{
+    opacity: 0.7;
+}
+
+.about{
+   border: none;
+   background-color: rgb(232, 232, 63);
+   font-weight: bold;
+   width: 100px;
+    height: 30px;
+    cursor: pointer;
+}
