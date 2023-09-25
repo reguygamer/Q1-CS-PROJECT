@@ -1,0 +1,27 @@
+body {
+   background-color: rgb(25, 25, 20); 
+}
+
+.Heading {
+  position: sticky;
+  padding:  1px;
+  background-color: rgb(30, 38, 45);
+}
+.Heading h1 {
+  color: rgb(41, 118, 211);
+}
+
+.Heading button {
+    margin-left: 10px;
+  background-color: transparent;
+  cursor: pointer;
+  border: none;
+  color: rgb(41, 118, 211);
+  font-weight: bold;
+
+  transition: color 0.15s;
+}
+
+.Heading button:hover {
+  color: white;
+}
