@@ -25,3 +25,14 @@ body {
 .Heading button:hover {
   color: white;
 }
+
+
+.Introduction{
+    height: 100px;
+    width: 100px;
+    background-image: 
+    url("./images/test.jpg")
+    background-repeat: no-repeat, no-repeat;
+    background-position: right, left;
+    ;
+}
