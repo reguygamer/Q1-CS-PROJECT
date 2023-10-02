@@ -2,54 +2,8 @@
    background-color: white; /* rgb(25, 25, 20) (Save for later 
 } */
 
-body{
+body {
   font-family: sans-serif;
-  background-color: white
-}
-
-.heading {
-  position: sticky;
-  padding: 10px;
   background-color: white;
 }
-.heading h1 {
-  color: rgb(41, 118, 211);
-}
-.heading img{
-  margin-left: 5px;
-  width:120px;
-  height:50px;
-  
-}
 
-.heading button {
-  margin-left: 10px;
-  background-color: transparent;
-  cursor: pointer;
-  border: none;
-  color: rgb(186, 185, 185);
- 
-
-  
-
-  
-
-  transition: color 0.15s;
-  
-}
-
-.heading button:hover {
-  color: orange;
- 
-}
-
-
-.Introduction{
-    height: 100px;
-    width: 100px;
-    background-image: 
-    url("./images/test.jpg");
-    background-repeat: no-repeat, no-repeat;
-    background-position: right, left;
-    ;
-}
