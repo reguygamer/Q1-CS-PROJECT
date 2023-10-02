@@ -4,30 +4,43 @@
 
 body{
   font-family: sans-serif;
+  background-color: white
 }
 
-.Heading {
+.heading {
   position: sticky;
-  padding:  1px;
-  background-color: rgb(30, 38, 45);
+  padding: 10px;
+  background-color: white;
 }
-.Heading h1 {
+.heading h1 {
   color: rgb(41, 118, 211);
 }
+.heading img{
+  margin-left: 5px;
+  width:120px;
+  height:50px;
+  
+}
 
-.Heading button {
-    margin-left: 10px;
+.heading button {
+  margin-left: 10px;
   background-color: transparent;
   cursor: pointer;
   border: none;
-  color: rgb(41, 118, 211);
-  font-weight: bold;
+  color: rgb(186, 185, 185);
+ 
+
+  
+
+  
 
   transition: color 0.15s;
+  
 }
 
-.Heading button:hover {
-  color: white;
+.heading button:hover {
+  color: orange;
+ 
 }
 
 
