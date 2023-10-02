@@ -1,5 +1,9 @@
-body {
-   background-color: rgb(25, 25, 20); 
+/*body {
+   background-color: white; /* rgb(25, 25, 20) (Save for later 
+} */
+
+body{
+  font-family: sans-serif;
 }
 
 .Heading {
@@ -31,7 +35,7 @@ body {
     height: 100px;
     width: 100px;
     background-image: 
-    url("./images/test.jpg")
+    url("./images/test.jpg");
     background-repeat: no-repeat, no-repeat;
     background-position: right, left;
     ;
