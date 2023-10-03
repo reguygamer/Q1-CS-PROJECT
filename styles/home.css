@@ -19,8 +19,15 @@ body {
   transition: color 0.15s;
 }
 
-.heading button:hover{
+/*.heading button:hover{
   color: orange;
+} */
+
+#test{
+  transition: opacity 0.15s;
+}
+#test:hover{
+  opacity: 0.7;
 }
 
 .head_button{
