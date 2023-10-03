@@ -7,3 +7,29 @@ body {
   background-color: white;
 }
 
+.heading button{
+  border: none;
+  
+  background-color: transparent;
+  width: 50px;
+  height: 20px;
+  font-weight: bold;
+  color: gray;
+
+  transition: color 0.15s;
+}
+
+.heading button:hover{
+  color: orange;
+}
+
+.head_button{
+  border: none;
+  background-color: transparent;
+  
+}
+
+.yes{
+  border: none;
+}
+
